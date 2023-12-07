@@ -1,0 +1,43 @@
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\bin\Debug\net6.0\rekurzija final.exe
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\bin\Debug\net6.0\rekurzija final.deps.json
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\bin\Debug\net6.0\rekurzija final.runtimeconfig.json
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\bin\Debug\net6.0\rekurzija final.dll
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\bin\Debug\net6.0\rekurzija final.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.csproj.AssemblyReference.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.AssemblyInfoInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.AssemblyInfo.cs
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.csproj.CoreCompileInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.dll
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\refint\rekurzija final.dll
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\rekurzija final.genruntimeconfig.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rekurzija final\obj\Debug\net6.0\ref\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\bin\Debug\net6.0\rekurzija final.exe
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\bin\Debug\net6.0\rekurzija final.deps.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\bin\Debug\net6.0\rekurzija final.runtimeconfig.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\bin\Debug\net6.0\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\bin\Debug\net6.0\rekurzija final.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.AssemblyInfoInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.AssemblyInfo.cs
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.csproj.CoreCompileInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\refint\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\rekurzija final.genruntimeconfig.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rekurzija final\obj\Debug\net6.0\ref\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\bin\Debug\net6.0\rekurzija final.exe
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\bin\Debug\net6.0\rekurzija final.deps.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\bin\Debug\net6.0\rekurzija final.runtimeconfig.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\bin\Debug\net6.0\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\bin\Debug\net6.0\rekurzija final.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.AssemblyInfoInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.AssemblyInfo.cs
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.csproj.CoreCompileInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\refint\rekurzija final.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\rekurzija final.genruntimeconfig.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\recursion-first-assignment\obj\Debug\net6.0\ref\rekurzija final.dll
