@@ -1,0 +1,29 @@
+C:\Users\302\Desktop\Osnovi Programiranja\rek\bin\Debug\net6.0\rek.exe
+C:\Users\302\Desktop\Osnovi Programiranja\rek\bin\Debug\net6.0\rek.deps.json
+C:\Users\302\Desktop\Osnovi Programiranja\rek\bin\Debug\net6.0\rek.runtimeconfig.json
+C:\Users\302\Desktop\Osnovi Programiranja\rek\bin\Debug\net6.0\rek.dll
+C:\Users\302\Desktop\Osnovi Programiranja\rek\bin\Debug\net6.0\rek.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.csproj.AssemblyReference.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.AssemblyInfoInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.AssemblyInfo.cs
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.csproj.CoreCompileInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.dll
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\refint\rek.dll
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\rek.genruntimeconfig.cache
+C:\Users\302\Desktop\Osnovi Programiranja\rek\obj\Debug\net6.0\ref\rek.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\bin\Debug\net6.0\rek.exe
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\bin\Debug\net6.0\rek.deps.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\bin\Debug\net6.0\rek.runtimeconfig.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\bin\Debug\net6.0\rek.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\bin\Debug\net6.0\rek.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.AssemblyInfoInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.AssemblyInfo.cs
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.csproj.CoreCompileInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\refint\rek.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\rek.genruntimeconfig.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\rek\obj\Debug\net6.0\ref\rek.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rekurzija Objektno/1.0.0": {
+        "runtime": {
+          "Rekurzija Objektno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rekurzija Objektno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

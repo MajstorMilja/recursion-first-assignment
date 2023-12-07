@@ -1,0 +1,22 @@
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\Rekurzija Baza.exe
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\Rekurzija Baza.deps.json
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\Rekurzija Baza.runtimeconfig.json
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\Rekurzija Baza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\Rekurzija Baza.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.csproj.AssemblyReference.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.AssemblyInfoInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.AssemblyInfo.cs
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.csproj.CoreCompileInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.csproj.CopyComplete
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\refint\Rekurzija Baza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\Rekurzija Baza.genruntimeconfig.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Rekurzija Baza\obj\Debug\net6.0\ref\Rekurzija Baza.dll
